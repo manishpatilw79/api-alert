@@ -1,0 +1,10 @@
+{
+  "name": "api-alert",
+  "version": "1.0.0",
+  "description": "ESP8266 security alert API using Twilio",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "twilio": "^4.21.0"
+  }
+}
